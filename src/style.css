@@ -9,11 +9,10 @@ html {
 .container {
   display: flex;
   flex-direction: column;
-  width: 200px;
   justify-content: space-between;
   align-items: center;
   border: 1px solid rgba(0, 0, 0, 0.1);
-  width: 160px;
+  width: 200px;
   height: 356px;
   padding: 32px 16px 16px;
 }
@@ -93,7 +92,7 @@ html {
   font-weight: bold;
   font-size: 16px;
   line-height: 18px;
-  color: #060B35;
+  color: #060b35;
 }
 
 .container-button {
@@ -110,7 +109,7 @@ html {
 }
 
 .container-button:hover {
-  background: #fff;
+  background: white;
   border: 1px solid #00acdc;
   color: #00acdc;
 }
